@@ -1,9 +1,0 @@
-kmsKeyRef:
-  external: string
-  name: string
-  namespace: string
-messageRetentionDuration: string
-messageStoragePolicy:
-  allowedPersistenceRegions:
-  - string
-resourceID: string
